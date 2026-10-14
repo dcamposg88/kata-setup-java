@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/node": "22.14.1",
-    "@vitest/coverage-v8": "1.5.2",
+    "@vitest/coverage-v8": "5.0.3",
     "prettier": "3.8.0",
     "rimraf": "6.1.2",
     "typescript": "5.9.3",
